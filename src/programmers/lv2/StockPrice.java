@@ -1,3 +1,5 @@
+package programmers.lv2;
+
 import java.util.Stack;
 public class StockPrice {
     public static void main(String[] args) {

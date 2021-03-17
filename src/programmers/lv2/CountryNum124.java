@@ -1,3 +1,5 @@
+package programmers.lv2;
+
 public class CountryNum124 {
     public static void main(String[] args) {
         System.out.print(solution(4));
