@@ -8,6 +8,9 @@ Machine Learning과 Meta Search 기반의 중고차 가격 정보 제공 서비�
 ***
 ## ***Skill***
 
+<style>
+    .user-content-skill{ background-color: white; }
+    </style>
 <div style="background-color: white">
 <div class="custome" id="skill" style="background-color: white">
 <img src='README.assets/Python-Symbol.png' width=200px>
