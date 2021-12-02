@@ -8,6 +8,7 @@ Machine Learning과 Meta Search 기반의 중고차 가격 정보 제공 서비�
 ***
 ## ***Skill***
 
+<div style="background-color: white">
 <div class="custome" id="skill" style="background-color: white">
 <img src='README.assets/Python-Symbol.png' width=200px>
 <img src='README.assets/django.png' width=200px>
@@ -25,7 +26,7 @@ Machine Learning과 Meta Search 기반의 중고차 가격 정보 제공 서비�
 <br></br>
 <img src='README.assets/spark.png' width=200px>
 </div>
-
+</div>
 
 
 
